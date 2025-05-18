@@ -16,10 +16,10 @@ A responsive web-based cryptocurrency tracking application built using **React +
 
 ## 🖼️ Preview Screenshots
 
-![Screenshot](Screenshot%202025-05-18%20at%203.20.54 PM.png)
-![Screenshot](Screenshot%202025-05-18%20at%203.24.21 PM.png)
-![Screenshot](Screenshot%202025-05-18%20at%203.24.29 PM.png)
-![Screenshot](Screenshot%202025-05-18%20at%203.24.45 PM.png)
+![Screenshot](cyrpto1.png)
+![Screenshot](cyrpto2.png)
+![Screenshot](cyrpto3.png)
+![Screenshot](cyrpto4.png)
 
 ---
 
